@@ -1,6 +1,6 @@
 # React in patterns
 
-:books: List of design patterns/techniques used while developing with [React](https://facebook.github.io/react/).
+List of design patterns/techniques used while developing with [React](https://facebook.github.io/react/).
 
 ---
 
